@@ -10,11 +10,12 @@
 
 ## 🖼️ 演算法示意圖
 
-![NLMS公式]<img width="501" height="238" alt="image" src="https://github.com/user-attachments/assets/8b09a7df-e2ec-42cd-9ccf-6df8b4fb65fb" />
+<img width="501" height="238" alt="image" src="https://github.com/user-attachments/assets/8b09a7df-e2ec-42cd-9ccf-6df8b4fb65fb" />
 
 
 
 > 上圖為題目提供之 NLMS 演算法公式（Initialization 與 Computation）。
+
 
 ---
 
