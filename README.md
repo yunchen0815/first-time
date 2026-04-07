@@ -32,7 +32,7 @@
 ---
 
 ## 🖼️ 範例圖片
-![範例圖片]([[https://picsum.photos/300/200](https://p9.itc.cn/images01/20210510/7ec7995de9934970a567ce981262a1d7.png)](https://www.sohu.com/a/465651279_120159959))
+![範例圖片](https://picsum.photos/300/200](https://p9.itc.cn/images01/20210510/7ec7995de9934970a567ce981262a1d7.png)](https://www.sohu.com/a/465651279_120159959)
 
 > 上圖為隨機產生的示意圖片。
 
